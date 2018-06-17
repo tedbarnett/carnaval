@@ -9,5 +9,5 @@ Path Targets:
 - Malonga Casquelourd Center (Alice St., Oakland)
 - Cesar Chavez Elementary School (Folsom St, SF)
 
-(!image)[url]
+![image](https://github.com/tedbarnett/carnaval/blob/master/Carnaval%20flyover%20paths.png)
 
