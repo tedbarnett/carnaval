@@ -312,7 +312,7 @@ MonoBehaviour:
   _initializeOnStart: 1
   _options:
     locationOptions:
-      latitudeLongitude: 37.7648, -122.463
+      latitudeLongitude: 37.7509698,-122.420855
       zoom: 16
     extentOptions:
       extentType: 0
@@ -451,7 +451,7 @@ MonoBehaviour:
         colliderOptions:
           colliderType: 0
         materialOptions:
-          style: 1
+          style: 4
           texturingType: 3
           materials:
           - Materials:
@@ -516,7 +516,7 @@ MonoBehaviour:
         - {fileID: 11400000, guid: 4aeb0629486794f25bf199af8a4f4830, type: 2}
       - coreOptions:
           sourceId: 
-          isActive: 1
+          isActive: 0
           sublayerName: Roads
           geometryType: 1
           layerName: road
@@ -1474,7 +1474,7 @@ MonoBehaviour:
         GoModifiers: []
       - coreOptions:
           sourceId: 
-          isActive: 1
+          isActive: 0
           sublayerName: LowTrafficCongestion
           geometryType: 1
           layerName: traffic
@@ -1520,7 +1520,7 @@ MonoBehaviour:
         GoModifiers: []
       - coreOptions:
           sourceId: 
-          isActive: 1
+          isActive: 0
           sublayerName: ModerateTrafficCongestion
           geometryType: 1
           layerName: traffic
@@ -1566,7 +1566,7 @@ MonoBehaviour:
         GoModifiers: []
       - coreOptions:
           sourceId: 
-          isActive: 1
+          isActive: 0
           sublayerName: HeavyTrafficCongestion
           geometryType: 1
           layerName: traffic
@@ -1612,7 +1612,7 @@ MonoBehaviour:
         GoModifiers: []
       - coreOptions:
           sourceId: 
-          isActive: 1
+          isActive: 0
           sublayerName: SevereTrafficCongestion
           geometryType: 1
           layerName: traffic
@@ -2916,7 +2916,7 @@ Prefab:
     - target: {fileID: 224835413515161394, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -97.22414
+      value: -88.14725
       objectReference: {fileID: 0}
     - target: {fileID: 224835413515161394, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
@@ -2926,12 +2926,12 @@ Prefab:
     - target: {fileID: 224835413515161394, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 174.44827
+      value: 156.2945
       objectReference: {fileID: 0}
     - target: {fileID: 224857786874416376, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 194.44827
+      value: 176.2945
       objectReference: {fileID: 0}
     - target: {fileID: 224907856650798614, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
@@ -2982,7 +2982,7 @@ Prefab:
     - target: {fileID: 224857786874416376, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 0.000015258789
       objectReference: {fileID: 0}
     - target: {fileID: 114731470950229392, guid: 98be219873e6d4dffb5949746f515a33,
         type: 2}
